@@ -1,4 +1,4 @@
-public class task2 {
+public class task2dir task2.java {
     public static void main(String[] args) {
         // 1. Declare and initialize an array
         String[] fruits = {"Apple", "Banana", "Cherry", "Mango"};
